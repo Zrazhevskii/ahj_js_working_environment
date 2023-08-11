@@ -1,7 +1,7 @@
 // TODO: write code here
 
 // comment this to pass build
-const unusedVariable = 'variable';
+const unusedVariable = "variable";
 // eslint-disable-next-line no-console
 console.log(unusedVariable);
 
@@ -11,4 +11,4 @@ export default function demo(value) {
 }
 
 // eslint-disable-next-line no-console
-console.log('app.js included');
+console.log("app.js included");
